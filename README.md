@@ -62,12 +62,4 @@
 
 ---
 
-## 📌 Pinned Projects  
-
-- **Library Management System (Python + MySQL)** – Designed and implemented a database-driven system for book management.  
-- **Data Analytics Projects** – Exploratory data analysis and visualization using Python, R, and Power BI.  
-- **AI Mini Projects** – Implemented basic ML models and AI bots during internships.  
-
----
-
 ✨ *"Turning data into insights, and insights into action."*  
