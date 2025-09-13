@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:1fddff&height=200&section=header&text=Krishna%20Kumar%20Ranjan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Krishna%20Kumar%20Ranjan&fontAlign=50&fontSize=50&fontColor=00f7ff&color=0:141b2a,50:242a38,100:1c2331&animation=fadeIn&desc=Data%20Analytics%20%7C%20AI%20%7C%20Problem%20Solver&descSize=20&descAlignY=65&descAlign=50&stroke=00ffcc&strokeWidth=1" alt="banner" />
 </p>
 
 <!-- Typing Animation -->
