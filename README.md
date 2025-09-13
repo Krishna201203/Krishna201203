@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Krishna Kumar Ranjan!
 
-🎓 BCA Graduate | 📊 Aspiring Data Analyst / Data Scientist | 💡 Tech Enthusiast  
+🎓 BCA Graduate | 📊 Aspiring Data Analyst | 💡 Tech Enthusiast  
 
 ---
 
