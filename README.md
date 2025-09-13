@@ -1,11 +1,11 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:1fddff&height=200&section=header&text=Krishna%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:1fddff&height=200&section=header&text=Krishna%20Kumar%20Ranjan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/YourUserName">
+  <a href="https://github.com/Krishna201203">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4B1F&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Scientist+Aspiring;Python+%7C+SQL+%7C+R;Data+Visualization+%7C+Power+BI;Turning+Data+into+Insights+✨" alt="Typing SVG" />
   </a>
 </p>
