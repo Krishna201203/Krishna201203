@@ -1,17 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Krishna%20Kumar%20Ranjan&fontAlign=50&fontSize=50&fontColor=00f7ff&color=0:141b2a,50:242a38,100:1c2331&animation=fadeIn&desc=Data%20Analytics%20%7C%20AI%20%7C%20Problem%20Solver&descSize=20&descAlignY=65&descAlign=50&stroke=00ffcc&strokeWidth=1" alt="banner" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/Krishna201203">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4B1F&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Scientist+Aspiring;Python+%7C+SQL+%7C+R;Data+Visualization+%7C+Power+BI;Turning+Data+into+Insights+✨" alt="Typing SVG" />
-  </a>
-</p>
-
-
----
 # 👋 Hi, I'm Krishna Kumar Ranjan!
 
 🎓 BCA Graduate | 📊 Aspiring Data Analyst / Data Scientist | 💡 Tech Enthusiast  
